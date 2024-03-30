@@ -1,3 +1,6 @@
+### Discord Bot Token ###
+iroiro.token
+
 ### Compiler and post-compile ###
 target/
 !.mvn/wrapper/maven-wrapper.jar
